@@ -11,6 +11,7 @@ main()
       
       else
       cout<<" Greater than twenty";
-      
+
+ 
       system("pause");
       }
