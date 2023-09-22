@@ -13,5 +13,6 @@ main()
       cout<<" Greater than twenty";
 
  
+ 
       system("pause");
       }
