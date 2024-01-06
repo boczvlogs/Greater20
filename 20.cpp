@@ -9,7 +9,7 @@ main()
       if (num<20)
       cout<<"the number is less than twenty";
       
-      else
+      else 
       cout<<" Greater than twenty";
 
  
