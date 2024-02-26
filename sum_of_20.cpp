@@ -10,6 +10,6 @@ int main() {
 
     // Display the result
     std::cout << "The sum of the first 20 natural numbers is: " << sum << std::endl;
-
+ 
     return 0;
 }
